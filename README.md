@@ -1,11 +1,5 @@
-![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
+<h1> Hi I am Thabo Kenneth Chalatse, <i>Software Developer</i> </h1>
 
-
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=chalatse&color=red)&nbsp;
-[![GitHub chalatse](https://img.shields.io/github/followers/chalatse?label=follow&style=social)](https://github.com/chalatse)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a software developer, working working for one of the corporates in South Africa. \
