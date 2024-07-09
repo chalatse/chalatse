@@ -1,31 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-  /* CSS styles for the heading */
-  h1 {
-    /* Text color */
-    color: #4CAF50; /* Green color */
-    /* Animation */
-    animation: colorChange 5s infinite; /* Apply animation for 5 seconds infinitely */
-  }
-
-  /* Keyframes for animation */
-  @keyframes colorChange {
-    0% { color: #4CAF50; } /* Start color */
-    50% { color: #2196F3; } /* Middle color */
-    100% { color: #FF5722; } /* End color */
-  }
-</style>
-<title>Animated Heading</title>
-</head>
-<body>
-  <!-- Your HTML heading with inline style removed -->
-  <h1>Hi I am Thabo Kenneth Chalatse, <i>Software Developer</i></h1>
-</body>
-</html>
+<h1>Hi I am Thabo Kenneth Chalatse, <i>Software Developer</i></h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
