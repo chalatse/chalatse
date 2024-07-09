@@ -1,4 +1,31 @@
-<h1> Hi I am Thabo Kenneth Chalatse, <i>Software Developer</i> </h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  /* CSS styles for the heading */
+  h1 {
+    /* Text color */
+    color: #4CAF50; /* Green color */
+    /* Animation */
+    animation: colorChange 5s infinite; /* Apply animation for 5 seconds infinitely */
+  }
+
+  /* Keyframes for animation */
+  @keyframes colorChange {
+    0% { color: #4CAF50; } /* Start color */
+    50% { color: #2196F3; } /* Middle color */
+    100% { color: #FF5722; } /* End color */
+  }
+</style>
+<title>Animated Heading</title>
+</head>
+<body>
+  <!-- Your HTML heading with inline style removed -->
+  <h1>Hi I am Thabo Kenneth Chalatse, <i>Software Developer</i></h1>
+</body>
+</html>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -33,9 +60,9 @@
 ### 📫 &nbsp; How to reach me:
 
 
-<a href="https://www.linkedin.com/in/abhishek-singh-dhadwal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:dhadwal1507@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/abhi_1507"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/thabo-chalatse-04225220a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:chalatsethabo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://instagram.com/hupostasis.micro"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 <!--
 **https://github.com/chalatse/chalatse/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
