@@ -4,9 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer, working working for one of the corporates in South Africa. \
+💡 &nbsp;I'm a software developer, working working for one of the corporates in South Africa. \
 💻 &nbsp;I'm currently performing research for my tech start up, and self teaching myself swift, kotlin for mobile development.\
-🎓&nbsp;I graduated from University of Johannesburg, Auckland Park (Bcom, Information Systems, Batch of 2022).\
+🎓 &nbsp;I graduated from University of Johannesburg, Auckland Park (Bcom, Information Systems, Batch of 2022).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
 ✍️ &nbsp;In my free time, I read books, play video games.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
